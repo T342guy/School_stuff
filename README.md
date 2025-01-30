@@ -6,6 +6,10 @@
 
 ### Math shedule
 
+
+> [!IMPORTANT]
+> check in/call gg on monday AND friday 11AM 
+
 template:
 > work to do: 
 >
