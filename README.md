@@ -8,7 +8,8 @@
 
 
 > [!IMPORTANT]
-> check in/call gg on monday AND friday 11AM 
+> check in/call gg on monday AND friday 11AM\
+> you CAN use chat GPT for math help
 
 template:
 > work to do: 
