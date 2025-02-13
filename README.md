@@ -37,3 +37,7 @@ workTD:
 
  deadline: jan 29th 
  text gg by 4:30pm on monday
+
+
+
+ why the hell is this not being updated dumbass, its 2 weeks old 
