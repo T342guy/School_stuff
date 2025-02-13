@@ -11,22 +11,17 @@
 > check in/call gg on monday AND friday 11AM\
 > you CAN use chat GPT for math help
 
-template:
-> work to do: 
->
-> deadline:
->
-> date:
->
-> notes:
->
-> - [ ] unfilled task
->
-> - [x] filled task
 
 ### shedule below, most recent at top 
 
+feb 12 
+TODO: work reduction (for now) 
+HOLD - project 1
+DO - chapter 4 l4
+HOLD - chapter 4 l5
 
+
+---
 date: jan 22, 2025
 
 workTD: 
