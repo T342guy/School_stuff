@@ -14,10 +14,10 @@
 
 ### shedule below, most recent at top 
 
-feb 12 
-TODO: work reduction (for now) 
-HOLD - project 1
-DO - chapter 4 l4
+feb 12\
+TODO: work reduction (for now)\
+HOLD - project 1\
+DO - chapter 4 l4\
 HOLD - chapter 4 l5
 
 
