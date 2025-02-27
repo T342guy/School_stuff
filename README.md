@@ -12,8 +12,16 @@
 > you CAN use chat GPT for math help
 
 
-### shedule below, most recent at top 
+### shedule below, most recent at top\
 
+FEB 26\
+- chapter 4 L6
+- Linear Expressions, Equations and Graphs review assignment
+DO BY: mar 5
+
+
+
+----
 feb 12\
 TODO: work reduction (for now)\
 HOLD - project 1\
