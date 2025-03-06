@@ -9,14 +9,24 @@
 
 > [!IMPORTANT]
 > check in/call gg on monday AND friday 11AM\
-> you CAN use chat GPT for math help
+> you CAN use chat GPT for math help\
+> ***make sure all your questions have notes on how you did it***
+
+
 
 
 ### shedule below, most recent at top\
 
+mar 5 
+- Linear Expressions, Equations and Graphs review assignment **MAKE SURE TO FINISH**
+- **master test** 
+
+do by: mar 12
+
+----
 FEB 26\
 - chapter 4 L6
-- Linear Expressions, Equations and Graphs review assignment
+- Linear Expressions, Equations and Graphs review assignment **INCOMPLETE**
 DO BY: mar 5
 
 
