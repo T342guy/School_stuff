@@ -15,7 +15,8 @@
 
 
 
-### shedule below, most recent at top\
+### shedule below, most recent at top
+## CHANGEING TO A PROJECT WORKFLOW, USING THIS REPO TO HOLD THE ISSUES(or "tasks").
 
 mar 5 
 - Linear Expressions, Equations and Graphs review assignment **MAKE SURE TO FINISH**
